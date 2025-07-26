@@ -27,7 +27,7 @@ pip install -r requirements.txt
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/mnist-digit-classifier.git
+git clone https://github.com/AlsoMeParth/mnist-digit-classifier.git
 cd mnist-digit-classifier
 ```
 
