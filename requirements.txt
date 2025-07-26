@@ -1,0 +1,7 @@
+# requirements.txt
+tensorflow==2.12.0
+matplotlib==3.7.1
+notebook
+
+# Python version constraint
+python_version >= "3.8" ; python_version < "3.11"
